@@ -1,5 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
-
+## NAME: Paladugu Venkata Balaji
+## REG.NO: 2305001024
 
 ## AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
@@ -37,6 +38,7 @@ return 0;
 ```
 ## OUTPUT:
 
+<img width="848" height="298" alt="image" src="https://github.com/user-attachments/assets/db3a6a36-95ad-4d2b-b2fd-7f620d18d534" />
 
 ## RESULT:
 Hence the experiment has been executed successfully
